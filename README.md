@@ -1,3 +1,3 @@
 # Loom AFT sandbox
 
-Created by tests/aft/scripts/real-github-repo.sh for one real-GitHub AFT run.
+CF4 required-status probe
